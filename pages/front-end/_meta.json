@@ -1,0 +1,11 @@
+{
+  "index": "Introduction",
+  "react": {
+    "title": "React",
+    "theme": {
+      "typesetting": "article"
+    }
+  },
+  "links": "Links",
+  "plugins": "Plugins"
+}
