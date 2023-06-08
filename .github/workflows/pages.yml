@@ -49,3 +49,4 @@ jobs:
         with:
           branch: gh-pages  # This is the branch the site will be pushed to
           folder: out  # This is the folder that you're pushing to GitHub Pages
+          github_token: ${{ secrets.GITHUB_TOKEN }}
