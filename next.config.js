@@ -5,8 +5,9 @@ const withNextra = require('nextra')({
 
 module.exports = {
   ...withNextra(),
-  // assetPrefix: './',
   images: {
-    unoptimized: true,
+    loader: 'akamai',
+    path: '',
   },
+  assetPrefix: './',
 };

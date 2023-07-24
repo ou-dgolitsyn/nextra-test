@@ -42,7 +42,7 @@ jobs:
         run: yarn install --immutable
 
       - name: Build static site
-        run: yarn run export
+        run: yarn run export && touch ./out/.nojekyll
 
       - name: Deploy
         uses: JamesIves/github-pages-deploy-action@4.1.5
