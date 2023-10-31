@@ -1290,7 +1290,7 @@ const RAW_RUNTIME_STATE =
     ],\
     [\
       "typescript",\
-      "patch:typescript@npm%3A4.9.3#optional!builtin<compat/typescript>::version=4.9.3&hash=a66ed4"\
+      "patch:typescript@npm%3A5.2.2#optional!builtin<compat/typescript>::version=5.2.2&hash=f3b441"\
     ],\
     [\
       "undici-types",\
@@ -1417,7 +1417,7 @@ const RAW_RUNTIME_STATE =
           ["nextra-theme-docs", "virtual:43f85f4455b06eb56ccbb15c55ed4ec5f1e3e61943c876dce0bafad67f10d44e573dd0f51a1239515938cfcfb92c2bc98e8d69ad3d4166231225531777cb7123#npm:2.13.2"],\
           ["react", "npm:18.2.0"],\
           ["react-dom", "virtual:43f85f4455b06eb56ccbb15c55ed4ec5f1e3e61943c876dce0bafad67f10d44e573dd0f51a1239515938cfcfb92c2bc98e8d69ad3d4166231225531777cb7123#npm:18.2.0"],\
-          ["typescript", "patch:typescript@npm%3A4.9.3#optional!builtin<compat/typescript>::version=4.9.3&hash=a66ed4"]\
+          ["typescript", "patch:typescript@npm%3A5.2.2#optional!builtin<compat/typescript>::version=5.2.2&hash=f3b441"]\
         ],\
         "linkType": "SOFT"\
       }]\
@@ -4629,7 +4629,7 @@ const RAW_RUNTIME_STATE =
           ["nextra-theme-docs", "virtual:43f85f4455b06eb56ccbb15c55ed4ec5f1e3e61943c876dce0bafad67f10d44e573dd0f51a1239515938cfcfb92c2bc98e8d69ad3d4166231225531777cb7123#npm:2.13.2"],\
           ["react", "npm:18.2.0"],\
           ["react-dom", "virtual:43f85f4455b06eb56ccbb15c55ed4ec5f1e3e61943c876dce0bafad67f10d44e573dd0f51a1239515938cfcfb92c2bc98e8d69ad3d4166231225531777cb7123#npm:18.2.0"],\
-          ["typescript", "patch:typescript@npm%3A4.9.3#optional!builtin<compat/typescript>::version=4.9.3&hash=a66ed4"]\
+          ["typescript", "patch:typescript@npm%3A5.2.2#optional!builtin<compat/typescript>::version=5.2.2&hash=f3b441"]\
         ],\
         "linkType": "SOFT"\
       }]\
@@ -5372,10 +5372,10 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["typescript", [\
-      ["patch:typescript@npm%3A4.9.3#optional!builtin<compat/typescript>::version=4.9.3&hash=a66ed4", {\
-        "packageLocation": "./.yarn/cache/typescript-patch-4851245b65-cc7506c7cb.zip/node_modules/typescript/",\
+      ["patch:typescript@npm%3A5.2.2#optional!builtin<compat/typescript>::version=5.2.2&hash=f3b441", {\
+        "packageLocation": "./.yarn/cache/typescript-patch-3914634c3a-f79cc2ba80.zip/node_modules/typescript/",\
         "packageDependencies": [\
-          ["typescript", "patch:typescript@npm%3A4.9.3#optional!builtin<compat/typescript>::version=4.9.3&hash=a66ed4"]\
+          ["typescript", "patch:typescript@npm%3A5.2.2#optional!builtin<compat/typescript>::version=5.2.2&hash=f3b441"]\
         ],\
         "linkType": "HARD"\
       }]\
