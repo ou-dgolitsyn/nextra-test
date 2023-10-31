@@ -10,6 +10,5 @@ module.exports = {
   },
   trailingSlash: true,
   // reactStrictMode: true,
-  basePath: process.env.NODE_ENV !== "development" ? "/nextra-test/" : "",
-  assetPrefix: process.env.NODE_ENV !== "development" ? "/nextra-test/" : ""
+  assetPrefix: process.env.NODE_ENV !== "development" ? "./" : ""
 };
