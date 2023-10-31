@@ -45,7 +45,7 @@ jobs:
         run: yarn run export && touch ./out/.nojekyll
 
       - name: Deploy
-        uses: JamesIves/github-pages-deploy-action@4.1.5
+        uses: JamesIves/github-pages-deploy-action@4.4.1
         with:
           branch: gh-pages  # This is the branch the site will be pushed to
           folder: out  # This is the folder that you're pushing to GitHub Pages

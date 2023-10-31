@@ -1,5 +1,10 @@
 {
-  "index": "Introduction",
+  "css": {
+    "title": "Css",
+    "theme": {
+      "typesetting": "article"
+    }
+  },
   "react": {
     "title": "React",
     "theme": {
