@@ -6,11 +6,11 @@ __metadata:
   cacheKey: 10
 
 "@babel/runtime@npm:^7.12.5":
-  version: 7.22.3
-  resolution: "@babel/runtime@npm:7.22.3"
+  version: 7.23.2
+  resolution: "@babel/runtime@npm:7.23.2"
   dependencies:
-    regenerator-runtime: "npm:^0.13.11"
-  checksum: dd9095565837f25f3ac4f28441412e10e91e4f851f8df6dd8a6637fb22e458c8a51284947106dd5467ab483214fde3df971abbd5586d438ed7a4387f95082a5f
+    regenerator-runtime: "npm:^0.14.0"
+  checksum: abdcbdd590c7e31762e1bdab94dd466823c8bcedd3ff2fde85eeb94dac7cccaef151ac37c428bda7018ededd27c9a82b4dfeb621f978ad934232475a902f8e3a
   languageName: node
   linkType: hard
 
@@ -22,14 +22,14 @@ __metadata:
   linkType: hard
 
 "@headlessui/react@npm:^1.7.10":
-  version: 1.7.14
-  resolution: "@headlessui/react@npm:1.7.14"
+  version: 1.7.17
+  resolution: "@headlessui/react@npm:1.7.17"
   dependencies:
     client-only: "npm:^0.0.1"
   peerDependencies:
     react: ^16 || ^17 || ^18
     react-dom: ^16 || ^17 || ^18
-  checksum: 85ad14c87d7c93f1895566174e90858a29419f10e688473a4225618fd34408e7ff5f2d707f17f9438147d525e6660f8b94a369c96d5ccf394894e88e456930ae
+  checksum: 00ad7db43bc1904a149925693f9d99d000e237d6e7206d0ded6bf43089070e0cb5b7188bef6f2f7d0d9175039dc90838f1cb9d0cc2b7479d6139da40de637fb7
   languageName: node
   linkType: hard
 
@@ -350,9 +350,9 @@ __metadata:
   linkType: hard
 
 "@types/js-yaml@npm:^4.0.0":
-  version: 4.0.5
-  resolution: "@types/js-yaml@npm:4.0.5"
-  checksum: 6fff5f47d97070f1a01022517ce4bd81a0cfac7cd30f9dbc7222dc5f8db4bfe5f5c8cba3f4b02bdbd6f31f691050db97395b33c8df66d1e7c4f66096b41a3df6
+  version: 4.0.8
+  resolution: "@types/js-yaml@npm:4.0.8"
+  checksum: 4ff6e50255f2fec044b032b43ef864885ebf64bf110ddb06a9390c80b695a0d595b1127ff83b9d81191d07bba4f28ac8ef020b98997fc03c5f6ffbd3f5b38c39
   languageName: node
   linkType: hard
 
@@ -480,9 +480,9 @@ __metadata:
   linkType: hard
 
 "ansi-sequence-parser@npm:^1.1.0":
-  version: 1.1.0
-  resolution: "ansi-sequence-parser@npm:1.1.0"
-  checksum: b9a9bd4ce0ec58c90e1ca404f74b45b0dbbc96e8cb8d856ede122e2c5c2d3b6a1054f181dde22bc0f1f2a7ea971cdcb8f47c6fd76ed8878b3676416522df615a
+  version: 1.1.1
+  resolution: "ansi-sequence-parser@npm:1.1.1"
+  checksum: 9ce30f257badc2ef62cac8028a7e26c368d22bf26650427192e8ffd102da42e377e3affe90fae58062eecc963b0b055f510dde3b677c7e0c433c67069b5a8ee5
   languageName: node
   linkType: hard
 
@@ -1301,11 +1301,11 @@ __metadata:
   linkType: hard
 
 "git-url-parse@npm:^13.1.0":
-  version: 13.1.0
-  resolution: "git-url-parse@npm:13.1.0"
+  version: 13.1.1
+  resolution: "git-url-parse@npm:13.1.1"
   dependencies:
     git-up: "npm:^7.0.0"
-  checksum: a088e9b57235eda6a390a0af31db28c128161861675935d26fca9615c0e5c6078b0adcca00293f25ea5e69a37bed5e8afe8bc5f2a079b286a897738a24ab98a4
+  checksum: 407f6579f3aa5e4040e215b45c1cfa7f08bd52a298a50310fc3debdd99e9d049d9f05e582b5475218116f312526691e1c3cc368e0d23f97c49735f210e381475
   languageName: node
   linkType: hard
 
@@ -2639,13 +2639,13 @@ __metadata:
   linkType: hard
 
 "next-seo@npm:^6.0.0":
-  version: 6.0.0
-  resolution: "next-seo@npm:6.0.0"
+  version: 6.4.0
+  resolution: "next-seo@npm:6.4.0"
   peerDependencies:
     next: ^8.1.1-canary.54 || >=9.0.0
     react: ">=16.0.0"
     react-dom: ">=16.0.0"
-  checksum: 5f2de4f4fb2b348cf9776755f43190b452ed7f2af673ff0851c4463e6be241fb2b859ae7764564f53b90780affbd9a03d34330ae0941cbbfdd2f948c32fa4bfb
+  checksum: acb7ea474f121f788d2cc312f9c8ec2061f72c28b4d9ef6beb89d0707f0319e7b5025d08c1970bad7d0cda451820751ecf9a40507c1b97098a18d00a99436856
   languageName: node
   linkType: hard
 
@@ -2968,10 +2968,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"regenerator-runtime@npm:^0.13.11":
-  version: 0.13.11
-  resolution: "regenerator-runtime@npm:0.13.11"
-  checksum: d493e9e118abef5b099c78170834f18540c4933cedf9bfabc32d3af94abfb59a7907bd7950259cbab0a929ebca7db77301e8024e5121e6482a82f78283dfd20c
+"regenerator-runtime@npm:^0.14.0":
+  version: 0.14.0
+  resolution: "regenerator-runtime@npm:0.14.0"
+  checksum: 6c19495baefcf5fbb18a281b56a97f0197b5f219f42e571e80877f095320afac0bdb31dab8f8186858e6126950068c3f17a1226437881e3e70446ea66751897c
   languageName: node
   linkType: hard
 
@@ -3130,11 +3130,11 @@ __metadata:
   linkType: hard
 
 "scroll-into-view-if-needed@npm:^3.0.0":
-  version: 3.0.10
-  resolution: "scroll-into-view-if-needed@npm:3.0.10"
+  version: 3.1.0
+  resolution: "scroll-into-view-if-needed@npm:3.1.0"
   dependencies:
     compute-scroll-into-view: "npm:^3.0.2"
-  checksum: fd94bbdfea5e939e1ee4d499cff04e24ca1eeb18d03230b6c9a529c32f650dd46147c2c0ea626247724d4a5f600586e79e278c2637f8f35004e8fa3ceeb01599
+  checksum: 1ea10d84b79db592493ed22563e307a4eaf858527b4c345e70cc26b9c51383636edda31a09d383541fafb5b50a94e59384d85351662cb7d6e5d70805c0d18798
   languageName: node
   linkType: hard
 

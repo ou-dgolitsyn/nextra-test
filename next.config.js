@@ -3,8 +3,13 @@ const withNextra = require('nextra')({
   themeConfig: './theme.config.tsx',
 })
 
-module.exports = withNextra({
+module.exports = {
+  ...withNextra(),
   images: {
     unoptimized: true,
-  }
-});
+  },
+  trailingSlash: true,
+  // reactStrictMode: true,
+  // basePath: process.env.NODE_ENV === "production" ? "/out" : "",
+  // assetPrefix: process.env.NODE_ENV === "production" ? "/out" : ""
+};
