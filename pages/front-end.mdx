@@ -1,3 +1,5 @@
+import { TableOfContents } from '/components/table-of-contents'
+
 # Front-end development overview 
 
 This part is about web development. Here you will find instructions on how to set up your projects, best practices, and examples of how to use third-party libraries to solve typical tasks.
@@ -5,5 +7,10 @@ The matters of UI testing are also considered.
 
 This particular section contains an overview of a front-end project setup
 
-:::{tableofcontents}
-:::
+<TableOfContents contents={
+    [
+        { title: 'CSS', href: '/front-end/css' },
+        { title: 'Data', href: '/front-end/data' },
+        { title: 'Forms', href: '/front-end/forms' },
+    ]
+} />
