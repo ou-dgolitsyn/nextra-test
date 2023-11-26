@@ -1,4 +1,3 @@
-// Example from https://beta.reactjs.org/learn
 import { Card, Cards } from "nextra/components";
 
 type TTableOfContentsItem = {

@@ -1,17 +1,11 @@
 {
   "overview": "Overview",
-  "css": {
-    "title": "Css",
-    "theme": {
-      "typesetting": "article"
-    }
-  },
-  "react": {
-    "title": "React",
-    "theme": {
-      "typesetting": "article"
-    }
-  },
+  "react": "React",
+  "data": "Data",
+  "forms": "Forms",
+  "testing": "Testing",
+  "css": "CSS",
+  "typescript": "TypeScript",
   "links": "Links",
   "plugins": "Plugins"
 }
